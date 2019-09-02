@@ -1,6 +1,6 @@
 
 
-<form action="method_test.php?var=value" method="POST">
+<form action="ono_nesto_method_test.php?var=value" method="POST">
     <input name="var" value="value1">
     <input type="submit">
 </form>
